@@ -107,6 +107,8 @@ Translation is a big barrier for the synchronization of Java Edition and Bedrock
 (P.S. I personally think this maybe the most difficult problem the solve during the contents sync between Java and Bedrock.)
 
 Fixed translation:
+|   |   |   |   |
+|---|---|---|---|
 ||Origin||Current Simplified Chinese||Suggested Simplified Chinese||Reason||Internal Ref.||Status||
 |-{{Fence}} in item names-|围墙|栅栏|the current one means {{wall}} instead of {{fence}}|||
 |-{{Fence Gate}} in item names-|围墙大门|栅栏门|ditto|||
