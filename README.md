@@ -5,7 +5,8 @@ Let me take Simplified Chinese for example, while other languages have the same 
 
 To name a few wrong translations in Simplified Chinese :
 
-| ----------- | ----------- | ----------- | ----------- |
+|   |   |   |   |   |
+|---|---|---|---|---|
 ||Origin||Current Simplified Chinese||Suggested Simplified Chinese||Reason||
 |{{End Crystal}}|末影水晶|末地水晶|inconsistency with {{end}}|
 |{{Lightning Bolt}}|闪电|闪电束|the current one means {{lightning}}|
