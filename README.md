@@ -1,3 +1,4 @@
+# Heading level 1
 The translation of ALL languages in Bedrock Edition is of low quality.
 
 Let me take Simplified Chinese for example, while other languages have the same situation. (p.s: The following zh-cn problems have nothing to do with Minecraft China Version)
