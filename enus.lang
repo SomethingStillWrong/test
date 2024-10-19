@@ -6,7 +6,7 @@ tile.double_stone_slab4.mossy_stone_brick.name=Mossy Stone Brick Double Slab
 tile.double_stone_slab4.cut_sandstone.name=Cut Sandstone Double Slab
 tile.double_stone_slab2.sandstone.smooth.name=Smooth Sandstone Double Slab
 tile.double_stone_slab4.cut_red_sandstone.name=Cut Red Sandstone Double Slab
-tile.double_stone_slab3.red_sandstone.smooth.name=平滑红砂岩双层台阶
+tile.double_stone_slab3.red_sandstone.smooth.name=Smooth Red Sandstone Double Slab
 tile.double_stone_slab3.granite.name=花岗岩双层台阶
 tile.double_stone_slab3.granite.smooth.name=磨制花岗岩双层台阶
 tile.double_stone_slab3.diorite.name=闪长岩双层台阶
@@ -22,8 +22,9 @@ tile.double_stone_slab2.prismarine.dark.name=暗海晶石双层台阶
 tile.double_stone_slab2.prismarine.bricks.name=海晶石砖双层台阶
 tile.blackstone_double_slab.name=黑石双层台阶
 tile.polished_blackstone_double_slab.name=磨制黑石双层台阶
-tile.polished_blackstone_double_brick_slab.name=磨制黑石砖双层台阶
+tile.polished_blackstone_brick_double_slab.name=磨制黑石砖双层台阶
 tile.double_cut_copper_slab.name=切制铜双层台阶
+tile.waxed_double_cut_copper_slab.name=切制铜双层台阶
 tile.exposed_double_cut_copper_slab.name=斑驳的切制铜双层台阶
 tile.weathered_double_cut_copper_slab.name=锈蚀的切制铜双层台阶
 tile.oxidized_double_cut_copper_slab.name=氧化的切制铜双层台阶
@@ -113,7 +114,7 @@ tile.bamboo_sapling.name=竹笋
 tile.chain.name=锁链
 tile.nether_sprouts.name=下界苗
 
-tipped_arrow.effect.mundane.extended=延长的药箭
+tipped_arrow.effect.mundane.extended=Tipped Arrow
 
 ile.client_request_placeholder_block.name=客户端请求占位符方块
 
@@ -133,13 +134,14 @@ item.sparkler.black.name=黑色烟花棒
 item.sparkler.silver.name=淡灰色烟花棒
 item.glow_stick.black.name=黑色荧光棒
 item.glow_stick.silver.name=淡灰色荧光棒
-item.medicine..name=未知药品
+item.medicine..name=Unknown Medicine
+
 tile.torchflower_crop.name=火把花植株
 tile.pitcher_crop.name=瓶子草植株
-trim_pattern..name=未知盔甲纹饰
+trim_pattern..name=Unknown Armor Trim
 
 entity.npc.name=NPC
-entity.agent.name=智能体
-entity.player.name=玩家
-entity.elder_guardian_ghost.name=远古守卫者幽灵
-entity.ominous_item_spawner.name=不祥之物生成器
+entity.agent.name=Agent
+entity.player.name=Player
+entity.elder_guardian_ghost.name=Elder Guardian Ghost
+entity.ominous_item_spawner.name=Ominous Item Spawner
