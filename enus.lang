@@ -113,3 +113,5 @@ entity.agent.name=Agent
 entity.player.name=Player
 entity.elder_guardian_ghost.name=Elder Guardian Ghost
 entity.ominous_item_spawner.name=Ominous Item Spawner
+
+tile.deprecated_purpur_block_2.name=Smooth Purpur Block
